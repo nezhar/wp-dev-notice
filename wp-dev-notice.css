@@ -1,0 +1,28 @@
+.wp-dev-notice {
+    position: fixed;
+    width: auto;
+    border-radius: 4px;
+    z-index: 100000;
+    top: 3px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    line-height: 2.0;
+    overflow: hidden;
+    font-size: 13px;
+    padding: 0 20px;
+    font-family: arial;
+    font-weight: bold;
+}
+
+.wp-dev-notice-info {
+    background-color: #00bfff;
+}
+
+.wp-dev-notice-warning {
+    background-color: #fde073;
+}
+
+.wp-dev-notice-danger {
+    background-color: #f08080;
+}

@@ -5,7 +5,7 @@ function wp_dev_notice_styles() {
     wp_enqueue_style( 'wp-dev-notice', plugins_url('wp-dev-notice.css',__FILE__ ) );
 }
 
-# Inject notice
+# Inject notice markup
 function wp_dev_notice_scripts(){
   ?>
   <script>

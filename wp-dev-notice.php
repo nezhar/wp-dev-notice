@@ -3,7 +3,7 @@
 Plugin Name: WP Dev Notice
 Plugin URI: https://github.com/anx-hnezbeda/wp-dev-notice
 Description: A WordPress plugin that displays a notification if you are working on a dev environment
-Version: 1.1
+Version: 1.2
 Author: Harald Nezbeda
 Author URI: http://www.nezhar.com
 Text Domain: wp-dev-notice
